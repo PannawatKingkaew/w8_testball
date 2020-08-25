@@ -1,3 +1,4 @@
+//String [] complex1 = new
 Complex ncomplex = new Complex("A","2","-","3");
 void setup()
 {  
@@ -28,9 +29,9 @@ class Complex
   
 //  void add()
 //  {
-//    front = int(n1[0]) + int(n1[1]) ;
-//    back = int(n2[0]) + int(n2[1]);
-//    print(a[0] + "+" + a[1] + "=" + front + o + back);
+//    front = int(first[0]) + int(first[1]) ;
+//    back = int(second[0]) + int(second[1]);
+//    print(alphabet[0] + "+" + aphabet[1] + "=" + front + operand + back);
 //  }
   
 //  void erase()
