@@ -54,7 +54,7 @@ void draw()
       if(mouseX > blocks[i].posX && mouseX < blocks[i].posX + bW &&
         mouseY > blocks[i].posY && mouseY < blocks[i].posY + bH){
         blocks[i].invisible(bli[i]); 
-        if(bli[i] == "visible"&& i%2 != 0){
+        if(bli[i] == "visible"){
           bli[i] = "invisible";
         }else if(bli[i] == "invisible"){
           bli[i] = "visible";
@@ -62,7 +62,7 @@ void draw()
       }//block
       if(sqrt( sq(mouseX - balls[i].posX) + sq(mouseY - balls[i].posY) ) < balls[i].size/2){
         balls[i].invisible(bi[i]); 
-        if(bi[i] == "visible" && i%2 != 0){
+        if(bi[i] == "visible"){
           bi[i] = "invisible";
         }else if(bi[i] == "invisible"){
           bi[i] = "visible";
