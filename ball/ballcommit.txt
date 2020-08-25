@@ -1,0 +1,23 @@
+commit 2e7092fa1d2b24e711ee487e7af4636386c9142c
+Author: Pannawat Kingkaew <s6201012620163@email.kmutnb.ac.th>
+Date:   Tue Aug 25 22:45:28 2020 +0700
+
+    disappear and appear
+
+commit f3bf6a9d0e380aab17dec77c46501c6c236623e3
+Author: Pannawat Kingkaew <s6201012620163@email.kmutnb.ac.th>
+Date:   Tue Aug 25 22:41:34 2020 +0700
+
+    click disappear
+
+commit 83faace8ed5048471dec39efd5398692604e558f
+Author: Pannawat Kingkaew <s6201012620163@email.kmutnb.ac.th>
+Date:   Tue Aug 25 22:17:37 2020 +0700
+
+    complex display
+
+commit 6b77828013293584841f306ff07652d0df7f1715
+Author: Pannawat Kingkaew <s6201012620163@email.kmutnb.ac.th>
+Date:   Tue Aug 25 21:35:36 2020 +0700
+
+    click disappear
